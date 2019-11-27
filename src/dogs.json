@@ -1,47 +1,47 @@
 [
     {
         "name": "Dog One",
-        "image": "https://www.what-dog.net/Images/faces2/scroll0015.jpg",
+        "image": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374__340.jpg",
         "clicked": false
     },
     {
         "name": "Dog Two",
-        "image": "https://i.kym-cdn.com/entries/icons/facebook/000/010/346/gdggfjjgfjgfgg.jpg",
+        "image": "https://cdn.pixabay.com/photo/2018/05/07/10/48/husky-3380548__340.jpg",
         "clicked": false
     },
     {
         "name": "Dog Three",
-        "image": "https://www.what-dog.net/Images/faces2/scroll001.jpg",
+        "image": "https://cdn.pixabay.com/photo/2016/02/19/15/46/dog-1210559__340.jpg",
         "clicked": false
     },
     {
         "name": "Dog Four",
-        "image": "https://www.what-dog.net/Images/faces2/scroll009.jpg",
+        "image": "https://cdn.pixabay.com/photo/2014/05/03/01/04/puppy-336707__340.jpg",
         "clicked": false
     },
     {
         "name": "Dog Five",
-        "image": "https://www.what-dog.net/Images/faces2/scroll008.jpg",
+        "image": "https://cdn.pixabay.com/photo/2016/01/19/16/50/border-collie-1149417__340.jpg",
         "clicked": false
     },
     {
         "name": "Dog Six",
-        "image": "https://www.what-dog.net/Images/faces2/scroll0014.jpg",
+        "image": "https://cdn.pixabay.com/photo/2019/10/20/19/51/dog-4564588__340.jpg",
         "clicked": false
     },
     {
         "name": "Dog Seven",
-        "image": "https://vaatpets.shelterbuddy.com.au/photos/lostfound/48079.jpg",
+        "image": "https://cdn.pixabay.com/photo/2016/11/19/15/20/animal-1839808__340.jpg",
         "clicked": false
     },
     {
         "name": "Dog Eight",
-        "image": "https://pricelesspetrescue.org/PPR_WP/wp-content/uploads/2018/03/adopt-dog.jpg",
+        "image": "https://cdn.pixabay.com/photo/2015/06/24/13/32/dog-820014__340.jpg",
         "clicked": false
     },
     {
         "name": "Dog Nine",
-        "image": "https://jokideo.com/wp-content/uploads/2015/04/Whys-my-bowl-empty-bro-Funny-dog-picture-600x600.jpg",
+        "image": "https://cdn.pixabay.com/photo/2016/11/22/23/14/adorable-1851108__340.jpg",
         "clicked": false
     }
 ]
